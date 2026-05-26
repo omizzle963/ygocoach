@@ -1,0 +1,6 @@
+{
+  "name": "YGO Deck Coach & Optimizer",
+  "description": "Advanced YGO deck optimization coach, multivariate hypergeometric calculator, sample hand playtester, and AI deck strategy profile analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
